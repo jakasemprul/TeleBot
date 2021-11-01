@@ -4,7 +4,7 @@ FROM ximfine/xproject:buster
 #
 # Clone repo and prepare working directory
 #
-RUN git clone -b alpha https://github.com/ximfine/XBot-Remix /home/xnewbie/
+RUN git clone -b alpha https://github.com/jakasemprul/telebot /home/xnewbie/
 RUN mkdir /home/xnewbie/bin/
 WORKDIR /home/xnewbie/
 
