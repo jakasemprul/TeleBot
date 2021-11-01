@@ -9,8 +9,8 @@
   "modular",
   "productivity"
  ],
- "repository": "https://github.com/xditya/TeleBot/",
- "website": "https://xditya.gitbook.io/telebot/",
+ "repository": "https://github.com/jakasemprul/TeleBot/",
+ "website": "https://jakasemprul.gitbook.io/telebot/",
  "success_url": "https://t.me/TeleBotHelp/13",
  "stack": "container",
  "env": {
